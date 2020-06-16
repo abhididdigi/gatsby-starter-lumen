@@ -1,7 +1,7 @@
 ---
-layout: post
 title: First Day Out of Country
-tag: personal
+tags:
+  - "personal"
 ---
 
 {{page.title}} 

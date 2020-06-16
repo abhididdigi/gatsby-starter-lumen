@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Retiring ServiceNowDiary
-tags: personal
+tags:
+  - "personal"
 ---
 
 {{page.title}} 
