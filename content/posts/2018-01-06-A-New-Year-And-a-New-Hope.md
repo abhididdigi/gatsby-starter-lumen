@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A New Year And A New Hope
-tag: personal
+tags:
+  - "personal"
 ---
 
 {{page.title}} 
