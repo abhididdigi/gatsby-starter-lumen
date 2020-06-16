@@ -1,15 +1,11 @@
 ---
-layout: post
+date: "2011-11-01T23:46:37.121Z"
+template: "post"
+draft: false
+slug: "hello-world"
+category: "Misc"
 title: Finally !... Many Thanks !
 --- 
-
-
-
-
- {{page.title}}
-======================================================
-
-
 
 
 I dedicate this post to 2 important people in this world. My mom and my dad.
